@@ -7,7 +7,7 @@ Weibo：
 [微博](http://weibo.com/hlgao1935)
 
 [![微博]](http://weibo.com/hlgao1935)  
-[微博]:https://github.com/gaolonglong/FragmentTabHost/raw/master/images/weibo.png "新浪微博" 
+[]:https://github.com/gaolonglong/FragmentTabHost/raw/master/images/weibo.png "新浪微博" 
 
 Screenshot：
 ------------
